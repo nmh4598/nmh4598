@@ -7,7 +7,7 @@ I'm studying to become a **Data Analyst** at **Data Scientist**. I'm currently l
 - Data visualization: R Shiny, Power BI
 - Databases: SQL and NoSQL
 - Others: Git, Office365, Jupiter, Google Colab, Eclipse, Latex
-- 
+
 I’m currently learning ETL
 
 ## Reach me

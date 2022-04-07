@@ -1,4 +1,4 @@
-<img align="center" alt="Manh banner" width="100%" src="https://raw.githubusercontent.com/nmh4598/nmh4598/main/GIF/UTNj.gif">
+<img align="center" alt="Manh banner" width="100%" src="https://raw.githubusercontent.com/nmh4598/nmh4598/main/GIF/tumblr_n7zj03aACT1swm1iso1_500.webp">
 
 # Welcome to my github! 👋
 ## About me :mortar_board:

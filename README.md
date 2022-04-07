@@ -1,4 +1,7 @@
-<img align="center" alt="Manh banner" width="100%" src="https://raw.githubusercontent.com/nmh4598/nmh4598/main/GIF/tumblr_n7zj03aACT1swm1iso1_500.webp">
+
+<div align="center">
+<img align="center" alt="Manh banner" style="width:700px;" src="https://raw.githubusercontent.com/nmh4598/nmh4598/main/GIF/tumblr_n7zj03aACT1swm1iso1_500.webp">
+</div>
 
 # Welcome to my github! 👋
 ## About me :mortar_board:

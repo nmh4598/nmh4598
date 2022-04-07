@@ -1,3 +1,5 @@
+<img align="center" alt="Manh banner" width="100%" src="https://raw.githubusercontent.com/nmh4598/nmh4598/main/GIF/QHJ.gif">
+
 # Welcome to my github! 👋
 ## About me :mortar_board:
 I'm studying to become a **Data Analyst** at **Data Scientist**. I'm currently looking for opportunities. I love to learn and contribute in any and every possible way. I'm passionate about technology, movies, football and specially cooking . 

@@ -25,7 +25,7 @@ I’m currently learning ETL <img align="center" alt="AWS" width="26px" src="htt
 
 ## Reach me
 [![Github](https://img.shields.io/github/followers/nmh4598?label=Follow&style=social)](https://github.com/nmh4598)
-[![Linkedin](https://img.shields.io/badge/-NGUYEN%20Manh%20Hung-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nmh4598/)](https://www.linkedin.com/in/nmh4598/)
+[![Linkedin](https://img.shields.io/badge/-NGUYEN%20Manh%20Hung-gray?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nmh4598/)](https://www.linkedin.com/in/nmh4598/)
 [![Mail](https://img.shields.io/badge/-nguyenmanhhung04051998@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/nmh4598/)](mailto:nguyenmanhhung04051998@gmail.com)
 
 

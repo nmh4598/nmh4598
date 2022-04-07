@@ -3,10 +3,19 @@
 I'm studying to become a **Data Analyst** at **Data Scientist**. I'm currently looking for opportunities. I love to learn and contribute in any and every possible way. I'm passionate about technology, movies, football and specially cooking . 
 
 ## What I know :computer:
-- Statistical software: Python, R, SAS
-- Data visualization: R Shiny, Power BI
-- Databases: SQL and NoSQL
-- Others: Git, Office365, Jupiter, Google Colab, Eclipse, Latex
+- Statistical software: 
+<img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> Python, 
+<img align="center" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png"> R, 
+<img align="center" alt="SAS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sas/sas.png"> SAS
+- Data visualization:
+<img align="center" alt="R Shiny" width="26px" src="https://ericrayanderson.github.io/shinymaterial/img/shinyLogo.png"> R Shiny, 
+<img align="center" alt="Power BI" width="26px" src="https://www.cloudbizz.com/web/image/product.product/10651/image_1024/Microsoft%20Power%20BI%20Pro%20%28Pro%20%29?unique=ed6c059"> Power BI
+- Databases: 
+<img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"> SQL, 
+<img align="center" alt="noSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"> NoSQL
+
+- Others: <img align="center" alt="Office365" width="26px" src="https://community.jalios.com/upload/docs/image/jpeg/2019-07/office-365_2019-07-05_11-24-0_256.jpg"> <img align="center" alt="Office365" width="26px" src="https://www.nicepng.com/png/detail/85-851058_anaconda-icon-anaconda-python-icon.png"> <img align="center" alt="Google Colab" width="26px" src="https://miro.medium.com/max/397/0*cbr_9kvPaWDbocSm.jpeg"> <img align="center" alt="Eclipse" width="26px" src="https://seekicon.com/free-icon-download/eclipse_2.svg"> <img align="center" alt="Office365" width="26px" src="https://st2.depositphotos.com/5142301/7567/v/950/depositphotos_75675779-stock-illustration-o-letter-green-logo-icon.jpg"> 
+<img align="center" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"> 
 
 I’m currently learning ETL
 

@@ -5,8 +5,7 @@
               
 # Welcome to my github! 👋   
 ## About me :mortar_board:
-I'm studying to become a **Data Analyst** at **Data Scientist**. I'm currently looking for opportunities. I love to learn and contribute in any and every possible way. I'm passionate about technology, movies, football, cooking and specially music  . 
- 
+
 ## What I know :computer:
 - Statistical software: 
 <img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> Python, 

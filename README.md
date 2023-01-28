@@ -16,11 +16,11 @@
 <img align="center" alt="Streamlit" width="26px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png"> Streamlit
 
 - Databases: 
-<img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"> SQL, 
-<img align="center" alt="noSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"> NoSQL
+<img align="center" alt="Postgresql" width="26px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4"> Postgresql, 
+<img align="center" alt="noSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"> Mongodb,
 
-- Others: 
-    
+- Others:  <img align="center" alt="Docker" width="26px" src="https://avatars.githubusercontent.com/u/5429470?s=280&v=4"> Docker, 
+ Airflow    
 
 
 ## Reach me

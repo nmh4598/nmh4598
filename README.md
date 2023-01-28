@@ -13,12 +13,13 @@
 <img align="center" alt="SAS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sas/sas.png"> SAS
 - Data visualization:
 <img align="center" alt="R Shiny" width="26px" src="https://ericrayanderson.github.io/shinymaterial/img/shinyLogo.png"> R Shiny, 
-<img align="center" alt="R Shiny" width="26px" src="[https://ericrayanderson.github.io/shinymaterial/img/shinyLogo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQps4tlF4nrw4Elmp5N5XsVSkJP8dQg8UJ04g&usqp=CAU)"> Streamlit 
+<img align="center" alt="Streamlit" width="26px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png"> Streamlit
+
 - Databases: 
 <img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"> SQL, 
 <img align="center" alt="noSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"> NoSQL
 
-- Others: <img align="center" alt="Office365" width="26px" src="https://community.jalios.com/upload/docs/image/jpeg/2019-07/office-365_2019-07-05_11-24-0_256.jpg"> <img align="center" alt="Office365" width="26px" src="https://www.nicepng.com/png/detail/85-851058_anaconda-icon-anaconda-python-icon.png"> <img align="center" alt="Google Colab" width="26px" src="https://miro.medium.com/max/397/0*cbr_9kvPaWDbocSm.jpeg"> <img align="center" alt="Eclipse" width="26px" src="https://seekicon.com/free-icon-download/eclipse_2.svg"> <img align="center" alt="Office365" width="26px" src="https://st2.depositphotos.com/5142301/7567/v/950/depositphotos_75675779-stock-illustration-o-letter-green-logo-icon.jpg"> <img align="center" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"> <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+- Others: 
     
 
 

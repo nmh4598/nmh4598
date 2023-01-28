@@ -13,7 +13,7 @@
 <img align="center" alt="SAS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sas/sas.png"> SAS
 - Data visualization:
 <img align="center" alt="R Shiny" width="26px" src="https://ericrayanderson.github.io/shinymaterial/img/shinyLogo.png"> R Shiny, 
-<img align="center" alt="Power BI" width="26px" src="https://www.cloudbizz.com/web/image/product.product/10651/image_1024/Microsoft%20Power%20BI%20Pro%20%28Pro%20%29?unique=ed6c059"> Power BI
+<img align="center" alt="R Shiny" width="26px" src="[https://ericrayanderson.github.io/shinymaterial/img/shinyLogo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQps4tlF4nrw4Elmp5N5XsVSkJP8dQg8UJ04g&usqp=CAU)"> Streamlit 
 - Databases: 
 <img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"> SQL, 
 <img align="center" alt="noSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"> NoSQL

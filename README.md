@@ -29,14 +29,6 @@
 [![Mail](https://img.shields.io/badge/-nguyenmanhhung04051998@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/nmh4598/)](mailto:nguyenmanhhung04051998@gmail.com)
 
 
-  
-#<br><br>
-#<a href="https://github.com/nmh4598">
-#  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmh4598&theme=dark">
-#</a>
-#<a href="https://github.com/nmh4598">
-# <img align="center" src="https://github-readme-stats.vercel.app/api?username=nmh4598&show_icons=true&theme=dark&line_height=30" alt="nmh4598's github stats"/>
-#</a>
 <!--
 **nmh4598/nmh4598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,9 +8,7 @@
                          
 ## What I know :computer:          
 - Statistical software:   
-<img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> Python,     
-<img align="center" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png"> R, 
-<img align="center" alt="SAS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sas/sas.png"> SAS
+<img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> Python, <img align="center" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png"> R,  <img align="center" alt="SAS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sas/sas.png"> SAS
 - Data visualization:   
 <img align="center" alt="R Shiny" width="26px" src="https://ericrayanderson.github.io/shinymaterial/img/shinyLogo.png"> R Shiny, 
 <img align="center" alt="Streamlit" width="26px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png"> Streamlit

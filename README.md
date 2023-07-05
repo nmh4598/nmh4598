@@ -12,7 +12,7 @@
 - Data visualization:   
 <img align="center" alt="R Shiny" width="26px" src="https://ericrayanderson.github.io/shinymaterial/img/shinyLogo.png"> R Shiny, 
 <img align="center" alt="Streamlit" width="26px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png"> Streamlit
-
+  
 - Databases: 
 <img align="center" alt="Postgresql" width="26px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4"> Postgresql, 
 <img align="center" alt="noSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"> Mongodb,

@@ -4,7 +4,7 @@
 </div>            
 -->                  
 # Welcome to my github! 👋               
-## About me :mortar_board:                             
+## About me :mortar_board:                                
                                                             
 ## What I know :computer:              
 - Statistical software:   
